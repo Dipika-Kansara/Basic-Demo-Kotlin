@@ -1,4 +1,4 @@
-package chapter2
+package chapter3
 
 fun main() {
     val person = FullName()
